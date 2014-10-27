@@ -1,0 +1,10 @@
+C:\Users\Génesis\Documents\Visual Studio 2010\Projects\WebServiceFIA\WebServiceFIA\bin\WebServiceFIA.dll
+C:\Users\Génesis\Documents\Visual Studio 2010\Projects\WebServiceFIA\WebServiceFIA\bin\WebServiceFIA.pdb
+C:\Users\Génesis\Documents\Visual Studio 2010\Projects\WebServiceFIA\WebServiceFIA\obj\Debug\WebServiceFIA.dll
+C:\Users\Génesis\Documents\Visual Studio 2010\Projects\WebServiceFIA\WebServiceFIA\obj\Debug\WebServiceFIA.pdb
+C:\Users\Génesis\Documents\Visual Studio 2010\Projects\WebServiceFIA\WebServiceFIA\obj\Debug\WebServiceFIA.csprojResolveAssemblyReference.cache
+C:\Users\Vasquez\Documents\TEC\Administracion de Proyectos\WebServiceFIA\WebServiceFIA\WebServiceFIA\bin\WebServiceFIA.dll
+C:\Users\Vasquez\Documents\TEC\Administracion de Proyectos\WebServiceFIA\WebServiceFIA\WebServiceFIA\bin\WebServiceFIA.pdb
+C:\Users\Vasquez\Documents\TEC\Administracion de Proyectos\WebServiceFIA\WebServiceFIA\WebServiceFIA\obj\Debug\WebServiceFIA.csprojResolveAssemblyReference.cache
+C:\Users\Vasquez\Documents\TEC\Administracion de Proyectos\WebServiceFIA\WebServiceFIA\WebServiceFIA\obj\Debug\WebServiceFIA.dll
+C:\Users\Vasquez\Documents\TEC\Administracion de Proyectos\WebServiceFIA\WebServiceFIA\WebServiceFIA\obj\Debug\WebServiceFIA.pdb
